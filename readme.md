@@ -23,7 +23,7 @@ To run this project, you will need to add the following environment variables to
 API Powered by
 
 - [elxyz AI](https://www.elxyz.me/)
-- [LuminAI](https://luminai.siputzx.my.id/)
+- [YanzGPT](https://yanzgpt.my.id/)
 
 ## License
 
